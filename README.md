@@ -27,7 +27,7 @@
 - Google Cloud Platform (GCP)
 - Kubernetes (GKE)
 - Terraform, Helm
-- Docker, Linux, Nginx
+- Docker, Linux
 
 #### DevOps & Monitoring
 - CI/CD: GitHub Actions, GitLab CI, Jenkins
@@ -36,7 +36,7 @@
 
 #### Scripting & Development
 - Python, Shell, Bash
-- Java, MySQL
+- MySQL
 
 ---
 
@@ -46,7 +46,7 @@
   <a href="mailto:arvindgupta.cloud@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/arvind-cloud-devops/">
+  <a href="https://www.linkedin.com/in/arvindguptag/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
 </p>
