@@ -17,7 +17,6 @@
 - 💼 3+ years of experience as a **Cloud & DevOps Engineer**
 - ☁️ **Google Cloud Certified**: PCA | PDE | ACE
 - 🔧 Hands-on expertise with **Terraform, GKE, Docker, CI/CD, Python & Shell scripting**
-- 🧠 Built AI-based safety systems & real-time skeleton tracking using **MediaPipe & OpenCV**
 - 📚 Contributed to **Grow with Google**: creating labs and GCP hands-on content
 
 ---
