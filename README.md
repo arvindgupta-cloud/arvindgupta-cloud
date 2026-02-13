@@ -14,8 +14,8 @@
 
 ### 🚀 About Me
 
-- 💼 3+ years of experience as a **Cloud & DevOps Engineer**
-- ☁️ **Google Cloud Certified**: PCA | PDE | ACE
+- 💼 4+ years of experience as a **Cloud & DevOps Engineer**
+- ☁️ **Google Cloud Certified**: Professional Cloud Architect | Professional Data Engineer | Professional DevOps Engineer | Associate Cloud Engineer
 - 🔧 Hands-on expertise with **Terraform, GKE, Docker, CI/CD, Python & Shell scripting**
 - 📚 Contributed to **Grow with Google**: creating labs and GCP hands-on content
 
